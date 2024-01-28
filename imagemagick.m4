@@ -1,5 +1,5 @@
 #########################################################
-# Locate ImageMagick configuration program
+##Locate ImageMagick configuration program
 # ImageMagick has the config program:
 # bin/Wand-config
 # bin/MagickWand-config
@@ -144,3 +144,4 @@ AC_DEFUN([IM_FIND_IMAGEMAGICK],[
   export IM_IMAGEMAGICK_CFLAGS
 ])
 
+ 
